@@ -117,8 +117,8 @@ const ReikiHomepage = () => {
           
           <div className="bg-white/60 backdrop-blur-sm rounded-2xl p-8 shadow-sm border border-rose-100">
             <p className="text-gray-600 mb-6 leading-relaxed">
-              If you&apos;d like to get started immediately on healing and refocusing your energy, book a session now. 
-              If you&apos;d like a complimentary assessment and recommendation on how to proceed with reiki and guidance chats, 
+              If you'd like to get started immediately on healing and refocusing your energy, book a session now. 
+              If you'd like a complimentary assessment and recommendation on how to proceed with reiki and guidance chats, 
               please fill out this introspective self evaluation, and together we can make a plan to help you succeed 
               on your wellness journey.
             </p>
@@ -138,7 +138,7 @@ const ReikiHomepage = () => {
               Heal yourself, he<span className="text-rose-500">A</span>l the world
             </h2>
             <p className="text-gray-600 font-light max-w-2xl mx-auto">
-              I know, it sounds sensational doesn&apos;t it? Just think about how many lives you touch on a weekly basis; 
+              I know, it sounds sensational doesn't it? Just think about how many lives you touch on a weekly basis; 
               family, friends, coworkers, even people on the street and in the grocery store. You affect others with 
               the energy you are putting out, positive and negative energy can be equally infectious.
             </p>
@@ -146,14 +146,14 @@ const ReikiHomepage = () => {
 
           <div className="grid md:grid-cols-2 gap-6 mb-12">
             {[
-              "Would you like to be free of an illness or injury that&apos;s been plaguing you?",
+              "Would you like to be free of an illness or injury that's been plaguing you?",
               "Would you feel more present as a parent if you were more balanced?",
               "Would you feel more ambitious if you were doing something you truly enjoyed?",
               "What would you do if you had permission to do anything you want with your life?",
               "What would your days look like without stress or fear driving your decisions?",
-              "Do you have something you&apos;ve been trying to accomplish, but can&apos;t seem to get there?",
-              "What if you don&apos;t even know what you want to do with your life? Oh for shame!! 🙃",
-              "Maybe you&apos;re pretty satisfied in life, but would like to feel even better, and more fulfilled?"
+              "Do you have something you've been trying to accomplish, but can't seem to get there?",
+              "What if you don't even know what you want to do with your life? Oh for shame!! 🙃",
+              "Maybe you're pretty satisfied in life, but would like to feel even better, and more fulfilled?"
             ].map((question, index) => (
               <div key={index} className="bg-white/50 rounded-xl p-6 border border-rose-100 hover:border-rose-200 transition-colors">
                 <p className="text-gray-700">{question}</p>
@@ -164,8 +164,8 @@ const ReikiHomepage = () => {
           <div className="bg-gradient-to-r from-rose-100 to-purple-100 rounded-2xl p-8 text-center">
             <p className="text-gray-700 mb-6 leading-relaxed">
               Open up to a rewarding life, full of excitement and anticipation of what tomorrow will bring. 
-              Commit to your well-being and begin to live the life you desire. Often people will say &ldquo;I&apos;m too old&rdquo; 
-              or &ldquo;I&apos;m too busy&rdquo; or &ldquo;I&apos;m too sick&rdquo; to make any real change. There is nothing that you cannot overcome!
+              Commit to your well-being and begin to live the life you desire. Often people will say "I'm too old" 
+              or "I'm too busy" or "I'm too sick" to make any real change. There is nothing that you cannot overcome!
             </p>
             <p className="text-gray-700 mb-8">
               Make a change now, before another moment goes by with you feeling less than. If not reiki, 
